@@ -15,7 +15,9 @@ module.exports = {
         title: 'Unix哲学读书笔记',
         children: [
           '/Unix/PhilOverview',
-          '/Unix/PhilModel'
+          '/Unix/PhilModel',
+          '/Unix/PhilClear',
+          '/Unix/PhilCompose'
         ]
       }
     ]
