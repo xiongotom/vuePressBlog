@@ -18,7 +18,9 @@ module.exports = {
           '/Unix/PhilModel',
           '/Unix/PhilClear',
           '/Unix/PhilCompose',
-          '/Unix/PhilSplit'
+          '/Unix/PhilSplit',
+          '/Unix/PhilConcise',
+          '/Unix/PhilStingy'
         ]
       }
     ]
