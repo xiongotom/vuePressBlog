@@ -1,0 +1,6 @@
+.vscode
+/node_modules
+.gitignor
+/docs/.vuepress/dist
+gitcmd.txt
+docs/.vuepress/dist
