@@ -17,10 +17,12 @@ module.exports = {
           '/Unix/PhilOverview',
           '/Unix/PhilModel',
           '/Unix/PhilClear',
-          '/Unix/PhilCompose',
+          '/Unix/PhilCompose',
           '/Unix/PhilSplit',
           '/Unix/PhilConcise',
-          '/Unix/PhilStingy'
+          '/Unix/PhilStingy',
+          '/Unix/PhilTransparent',
+          '/Unix/PhilRobustness'
         ]
       }
     ]
