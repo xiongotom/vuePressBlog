@@ -19,3 +19,5 @@
 * [Unix哲学之透明性原则](/Unix/PhilTransparent.md)
 
 * [Unix哲学之健壮原则](/Unix/PhilRobustness.md)
+
+* [Unix哲学之表示原则](/Unix/PhilExpress.md)
