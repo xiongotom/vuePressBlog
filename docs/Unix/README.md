@@ -21,3 +21,5 @@
 * [Unix哲学之健壮原则](/Unix/PhilRobustness.md)
 
 * [Unix哲学之表示原则](/Unix/PhilExpress.md)
+
+* [Unix哲学之通俗原则](/Unix/PhilPopular.md)

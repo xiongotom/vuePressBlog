@@ -23,7 +23,8 @@ module.exports = {
           '/Unix/PhilStingy',
           '/Unix/PhilTransparent',
           '/Unix/PhilRobustness',
-          '/Unix/PhilExpress'
+          '/Unix/PhilExpress',
+          '/Unix/PhilPopular'
         ]
       }
     ]
