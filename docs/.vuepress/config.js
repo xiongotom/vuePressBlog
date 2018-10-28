@@ -24,7 +24,9 @@ module.exports = {
           '/Unix/PhilTransparent',
           '/Unix/PhilRobustness',
           '/Unix/PhilExpress',
-          '/Unix/PhilPopular'
+          '/Unix/PhilPopular',
+          '/Unix/PhilSilent',
+          '/Unix/PhilRemedy'
         ]
       }
     ]

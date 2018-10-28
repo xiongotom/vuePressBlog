@@ -23,3 +23,5 @@
 * [Unix哲学之表示原则](/Unix/PhilExpress.md)
 
 * [Unix哲学之通俗原则](/Unix/PhilPopular.md)
+* [Unix哲学之缄默原则](/Unix/PhilSilent.md)
+* [Unix哲学之补救原则](/Unix/PhilRemedy.md)
